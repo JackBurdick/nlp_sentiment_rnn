@@ -4,3 +4,4 @@ checkpoints/*
 .ipynb_checkpoints/*
 .ipynb_checkpoints/sentiment_rnn_explained-checkpoint.ipynb
 checkpoints_expanded/*
+checkpoints/checkpoint

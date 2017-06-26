@@ -1,2 +1,2 @@
-model_checkpoint_path: "sentiment.ckpt"
-all_model_checkpoint_paths: "sentiment.ckpt"
+model_checkpoint_path: "sentiment_expanded.ckpt"
+all_model_checkpoint_paths: "sentiment_expanded.ckpt"
