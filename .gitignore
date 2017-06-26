@@ -3,3 +3,4 @@
 checkpoints/sentiment.ckpt.data-00000-of-00001
 checkpoints/sentiment.ckpt.meta
 checkpoints/sentiment.ckpt.index
+.ipynb_checkpoints/*
