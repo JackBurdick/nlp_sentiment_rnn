@@ -22,7 +22,7 @@ The performance here is, in my opinion, trivial.  There are many issues;
 
 
 ## TODO:
- - include fiugres of models in readme
+ - include figures of models in readme
  - shuffle index
  - save "best" model, not last model
     - Use `early stopping`, if unable to find method to save the best model (either by val_acc or loss)
